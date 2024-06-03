@@ -1,0 +1,14 @@
+.heading{
+    color:violet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width:100%;
+    background-color: bisque;
+    height: 500px;
+    justify-content: center;
+    display: flex;
+    place-items: center;
+   border-radius: 20%;
+}
+.heading:hover{
+    transform: rotate(30deg);
+}
